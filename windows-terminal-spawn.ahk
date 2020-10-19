@@ -1,3 +1,4 @@
+#NoTrayIcon
 #NoEnv
 #SingleInstance force
 SendMode Input
